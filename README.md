@@ -5,7 +5,7 @@
 > **By:** Sachin Savkare
 
 🔗 **Live Power BI Dashboard:**  
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzVmNmQ0MGUtNGJlMC00MzE1LTk2YjQtOWMzNGQ4NzAxNmJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTllY2FmYmEtNmYzMi00YTdjLThjNmUtNjgyMjc2NzRkYTk4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
