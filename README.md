@@ -36,6 +36,10 @@ The company lacked visibility into:
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/SachinSavkare/Fabric-Power-Bi-AtliQ-Mart-Supply-Chain-Analytics/main/Thumbnail.png)](https://www.youtube.com/watch?v=ZA_CjcRtzMw)
+
+---
+
 ## 👨‍💻 Role & Tools
 
 **My Role:** Data Analyst – Supply Chain Analytics  
